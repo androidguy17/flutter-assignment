@@ -1,16 +1,13 @@
 # movieapp
 
-A new Flutter project.
+Movie App assignment for Yellow Class, 
+This App uses Hive to store data offline with persistent Firebase login
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Preview screens
 
-A few resources to get you started if this is your first Flutter project:
+![013](https://user-images.githubusercontent.com/43215674/129526870-f18f2dad-fc9d-4169-8964-8d0cdf74c515.jpeg)
+![012](https://user-images.githubusercontent.com/43215674/129526877-8e2ceaf6-5c11-4885-997a-1a4ad2b56e5d.jpeg)
+![011](https://user-images.githubusercontent.com/43215674/129526882-aded1a18-c81c-40fe-b92f-62f219346ea2.jpeg)
+![010](https://user-images.githubusercontent.com/43215674/129526898-e0549286-7793-423a-b0e8-bf89b2ffccef.jpeg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
