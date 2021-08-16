@@ -7,6 +7,9 @@ APK LINK
 https://drive.google.com/file/d/1uPxHMx3ZedPMXLeG6Y93cdyOzl5oa71T/view?usp=sharing
 
 
+App walkthrough video
+https://drive.google.com/file/d/1uPspxkA67VliPzfubiGAHQLXVNj8UKA2/view?usp=sharing
+
 Preview screens
 
 ![013](https://user-images.githubusercontent.com/43215674/129526870-f18f2dad-fc9d-4169-8964-8d0cdf74c515.jpeg)
