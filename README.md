@@ -3,6 +3,9 @@
 Movie App assignment for Yellow Class, 
 This App uses Hive to store data offline with persistent Firebase login
 
+APK LINK
+https://drive.google.com/file/d/1uPxHMx3ZedPMXLeG6Y93cdyOzl5oa71T/view?usp=sharing
+
 
 Preview screens
 
